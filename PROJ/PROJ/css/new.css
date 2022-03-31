@@ -1,0 +1,12 @@
+.body-colour{
+    background-image: linear-gradient(to right, rgb(222 221 231 / 79%), rgb(171 197 178 / 28%));
+}
+.nav-col{
+    background-color: #625757;
+}
+.navmargin{
+    margin: 5px;
+}
+.h-70{
+    height: 500px;
+}
